@@ -8,6 +8,6 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://localhost:7654/eureka
-spring:
-    applicaton:
-           name: config-dev
+# spring:
+#     applicaton:
+#            name: config-dev
